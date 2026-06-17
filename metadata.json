@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Innowise Interview Coach Frontend",
+  "description": "Interactive AI-powered technical and soft interview coaching for junior React developers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
